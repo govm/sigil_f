@@ -2,6 +2,10 @@
 
 Make fn/0 that returns given string
 
+[![hex.pm version](https://img.shields.io/hexpm/v/sigil_f.svg)](https://hex.pm/packages/sigil_f)
+[![hex.pm](https://img.shields.io/hexpm/l/sigil_f.svg)](https://github.com/govm/sigil_f/blob/master/LICENSE)
+[![Build Status](https://travis-ci.org/govm/sigil_f.svg?branch=master)](https://travis-ci.org/govm/sigil_f)
+
 ## Usage
 
 ```ex
